@@ -1,0 +1,731 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\T\\TournamentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\najib\\AppData\\Local\\Temp\\.vsdbgsrc\\ced3a1af7d9f638b37806ca92cea775aef7c7793710f8627c3dd9e4d9c3fa9ee\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\TeamA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\TeamA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\TeamG.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\TeamG.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\UsersHome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\UsersHome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\BuyTicket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\BuyTicket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\Details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\Details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\Details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\Details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\UsersHome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\UsersHome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\AboutUs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\AboutUs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\TeamManagmentLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\TeamManagmentLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\Bkash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\Bkash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\ManagerInformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\ManagerInformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\TeamManagmentLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\TeamManagmentLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\ManagerInformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\ManagerInformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\UserInformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\UserInformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\TeamB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\TeamB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\TeamC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\TeamC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\TeamB.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\TeamB.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\TeamG.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\TeamG.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\tournamentmanagement\\teamb.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:tournamentmanagement\\teamb.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\TeamB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\TeamB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\TeamA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\TeamA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\Setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\Setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\Setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\Setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\Setting.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\Setting.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\vedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\vedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\Upay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\Upay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\Upay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\Upay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\Nogod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\Nogod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\Bkash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\Bkash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\Nogod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\Nogod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\Recharge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\Recharge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\Recharge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\Recharge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\vedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\vedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|G:\\T\\TournamentManagement\\TournamentManagement\\AboutUs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1618CA-B819-46EF-822C-0220AB4072E9}|TournamentManagement\\TournamentManagement.csproj|solutionrelative:TournamentManagement\\AboutUs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\Program.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\Program.cs",
+              "RelativeToolTip": "TournamentManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:15:21.393Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeamA.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\TeamA.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\TeamA.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\TeamA.cs",
+              "RelativeToolTip": "TournamentManagement\\TeamA.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAmwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:26:02.838Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeamG.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\TeamG.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\TeamG.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\TeamG.cs",
+              "RelativeToolTip": "TournamentManagement\\TeamG.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:14:41.351Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\AppData\\Local\\Temp\\.vsdbgsrc\\ced3a1af7d9f638b37806ca92cea775aef7c7793710f8627c3dd9e4d9c3fa9ee\\Program.cs",
+              "ToolTip": "C:\\Users\\najib\\AppData\\Local\\Temp\\.vsdbgsrc\\ced3a1af7d9f638b37806ca92cea775aef7c7793710f8627c3dd9e4d9c3fa9ee\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:29:28.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\Admin.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\Admin.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\Admin.cs",
+              "RelativeToolTip": "TournamentManagement\\Admin.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:14:33.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\Form1.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\Form1.cs",
+              "RelativeToolTip": "TournamentManagement\\Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:44:41.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Account.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\Account.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\Account.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\Account.cs",
+              "RelativeToolTip": "TournamentManagement\\Account.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:14:43.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AboutUs.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\AboutUs.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\AboutUs.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\AboutUs.cs",
+              "RelativeToolTip": "TournamentManagement\\AboutUs.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:14:34.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeamManagmentLogin.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\TeamManagmentLogin.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\TeamManagmentLogin.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\TeamManagmentLogin.cs",
+              "RelativeToolTip": "TournamentManagement\\TeamManagmentLogin.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:53:57.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Bkash.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\Bkash.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\Bkash.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\Bkash.cs",
+              "RelativeToolTip": "TournamentManagement\\Bkash.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:14:50.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "welcome.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\welcome.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\welcome.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\welcome.cs",
+              "RelativeToolTip": "TournamentManagement\\welcome.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAewB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:14:12.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManagerInformation.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\ManagerInformation.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\ManagerInformation.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\ManagerInformation.cs",
+              "RelativeToolTip": "TournamentManagement\\ManagerInformation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:25:14.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersHome.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\UsersHome.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\UsersHome.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\UsersHome.cs",
+              "RelativeToolTip": "TournamentManagement\\UsersHome.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:45:59.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\Details.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\Details.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\Details.cs",
+              "RelativeToolTip": "TournamentManagement\\Details.cs",
+              "ViewState": "AQIAABEBAAAAAAAAAAAewCMBAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:14:33.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\Details.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\Details.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\Details.cs",
+              "RelativeToolTip": "TournamentManagement\\Details.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:08:41.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuyTicket.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\BuyTicket.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\BuyTicket.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\BuyTicket.cs",
+              "RelativeToolTip": "TournamentManagement\\BuyTicket.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:50:25.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersHome.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\UsersHome.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\UsersHome.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\UsersHome.cs",
+              "RelativeToolTip": "TournamentManagement\\UsersHome.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:46:01.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TeamManagmentLogin.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\TeamManagmentLogin.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\TeamManagmentLogin.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\TeamManagmentLogin.cs",
+              "RelativeToolTip": "TournamentManagement\\TeamManagmentLogin.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:34:13.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\Admin.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\Admin.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\Admin.cs",
+              "RelativeToolTip": "TournamentManagement\\Admin.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:14:45.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\Login.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\Login.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\Login.cs",
+              "RelativeToolTip": "TournamentManagement\\Login.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:57:45.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManagerInformation.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\ManagerInformation.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\ManagerInformation.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\ManagerInformation.cs",
+              "RelativeToolTip": "TournamentManagement\\ManagerInformation.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:19:41.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "welcome.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\welcome.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\welcome.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\welcome.cs",
+              "RelativeToolTip": "TournamentManagement\\welcome.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T20:00:16.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserInformation.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\UserInformation.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\UserInformation.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\UserInformation.cs",
+              "RelativeToolTip": "TournamentManagement\\UserInformation.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:00:18.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TeamB.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\TeamB.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\TeamB.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\TeamB.cs",
+              "RelativeToolTip": "TournamentManagement\\TeamB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:08:51.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TeamC.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\TeamC.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\TeamC.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\TeamC.cs",
+              "RelativeToolTip": "TournamentManagement\\TeamC.cs",
+              "ViewState": "AQIAACwBAAAAAAAAAAAAAEYBAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T08:31:36.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TeamB.Designer.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\TeamB.Designer.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\TeamB.Designer.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\TeamB.Designer.cs",
+              "RelativeToolTip": "TournamentManagement\\TeamB.Designer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:08:49.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TeamG.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\TeamG.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\TeamG.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\TeamG.cs",
+              "RelativeToolTip": "TournamentManagement\\TeamG.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:00:02.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TeamB.resx",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\TeamB.resx",
+              "RelativeDocumentMoniker": "TournamentManagement\\TeamB.resx",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\TeamB.resx",
+              "RelativeToolTip": "TournamentManagement\\TeamB.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-01T10:08:48.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TeamB.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\TeamB.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\TeamB.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\TeamB.cs",
+              "RelativeToolTip": "TournamentManagement\\TeamB.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T08:12:38.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TeamA.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\TeamA.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\TeamA.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\TeamA.cs",
+              "RelativeToolTip": "TournamentManagement\\TeamA.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:22:39.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\Setting.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\Setting.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\Setting.cs",
+              "RelativeToolTip": "TournamentManagement\\Setting.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T09:33:23.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Login.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\Login.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\Login.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\Login.cs",
+              "RelativeToolTip": "TournamentManagement\\Login.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAcwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:57:46.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\Setting.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\Setting.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\Setting.cs",
+              "RelativeToolTip": "TournamentManagement\\Setting.cs",
+              "ViewState": "AQIAAOQAAAAAAAAAAADwv/AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T09:42:17.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Setting.Designer.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\Setting.Designer.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\Setting.Designer.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\Setting.Designer.cs",
+              "RelativeToolTip": "TournamentManagement\\Setting.Designer.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T10:18:32.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "vedio.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\vedio.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\vedio.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\vedio.cs",
+              "RelativeToolTip": "TournamentManagement\\vedio.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:16:25.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Upay.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\Upay.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\Upay.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\Upay.cs",
+              "RelativeToolTip": "TournamentManagement\\Upay.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:17:02.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Upay.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\Upay.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\Upay.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\Upay.cs",
+              "RelativeToolTip": "TournamentManagement\\Upay.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:17:19.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Nogod.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\Nogod.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\Nogod.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\Nogod.cs",
+              "RelativeToolTip": "TournamentManagement\\Nogod.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:49:18.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Bkash.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\Bkash.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\Bkash.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\Bkash.cs",
+              "RelativeToolTip": "TournamentManagement\\Bkash.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADgvx8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T15:09:10.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Nogod.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\Nogod.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\Nogod.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\Nogod.cs",
+              "RelativeToolTip": "TournamentManagement\\Nogod.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAASwBcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:15:27.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Recharge.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\Recharge.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\Recharge.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\Recharge.cs",
+              "RelativeToolTip": "TournamentManagement\\Recharge.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:14:56.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\Form1.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\Form1.cs",
+              "RelativeToolTip": "TournamentManagement\\Form1.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAmwD8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:44:44.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Recharge.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\Recharge.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\Recharge.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\Recharge.cs",
+              "RelativeToolTip": "TournamentManagement\\Recharge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T15:04:31.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "vedio.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\vedio.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\vedio.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\vedio.cs",
+              "RelativeToolTip": "TournamentManagement\\vedio.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAD4vyAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:16:50.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AboutUs.cs",
+              "DocumentMoniker": "G:\\T\\TournamentManagement\\TournamentManagement\\AboutUs.cs",
+              "RelativeDocumentMoniker": "TournamentManagement\\AboutUs.cs",
+              "ToolTip": "G:\\T\\TournamentManagement\\TournamentManagement\\AboutUs.cs",
+              "RelativeToolTip": "TournamentManagement\\AboutUs.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAArwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:14:37.083Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
